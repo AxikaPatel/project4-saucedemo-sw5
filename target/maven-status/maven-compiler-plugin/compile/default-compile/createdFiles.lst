@@ -1,0 +1,5 @@
+com\saucedemo\App.class
+com\saucedemo\propertyreader\PropertyReader.class
+com\saucedemo\utility\Utility.class
+com\saucedemo\browserfactroy\ManageBrowser.class
+com\saucedemo\customlistener\CustomListener.class
